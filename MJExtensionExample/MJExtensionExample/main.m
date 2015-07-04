@@ -54,7 +54,10 @@ void valuesWithKey()
     NSDictionary *dic=@{@"key0":@"0"};
     NSLog(@"dic:%@",dic);
 }
-
+void stringWithTest()
+{
+    NSLog(@"test01");
+}
 
 /**
  *  简单的字典 -> 模型
