@@ -58,7 +58,10 @@ void stringWithTest()
 {
     NSLog(@"test01");
 }
-
+void sortAll()
+{
+    NSLog(@"sortAll");
+}
 /**
  *  简单的字典 -> 模型
  */
