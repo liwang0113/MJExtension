@@ -62,6 +62,9 @@ void sortAll()
 {
     NSLog(@"sortAll");
 }
+void sortTest1(){
+    NSLog(@"sortTest1");
+}
 /**
  *  简单的字典 -> 模型
  */
