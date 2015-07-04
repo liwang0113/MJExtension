@@ -332,6 +332,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MJExtensionExample/MJExtensionExample-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = macosx;
 			};
 			name = Debug;
 		};
@@ -341,6 +342,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MJExtensionExample/MJExtensionExample-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = macosx;
 			};
 			name = Release;
 		};

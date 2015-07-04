@@ -49,6 +49,13 @@ int main(int argc, const char * argv[])
     return 0;
 }
 
+void valuesWithKey()
+{
+    NSDictionary *dic=@{@"key0":@"0"};
+    NSLog(@"dic:%@",dic);
+}
+
+
 /**
  *  简单的字典 -> 模型
  */
